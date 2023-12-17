@@ -143,4 +143,4 @@ def prismarea(request):
 ![](./2.png)
 
 ## Result:
-This program is executed successfully
+This program is executed successfully.
